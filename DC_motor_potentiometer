@@ -1,3 +1,5 @@
+### 모터 회전 속도에 따른 LED 색상 변화 확인하기
+
 const int EN = 9;  // 모터 제어를 위한 PWM 핀
 const int MC1 = 3;  // 모터 회전 방향 제어 핀 1
 const int MC2 = 2;  // 모터 회전 방향 제어 핀 2
